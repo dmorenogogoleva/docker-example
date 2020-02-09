@@ -10,3 +10,5 @@ simple docker example
 ```js
   yarn start
 ```
+
+will run on http://localhost:4000
