@@ -1,9 +1,12 @@
 # docker-example
 simple docker example
 
+## install
+```js
+  yarn
+```
 
-```run
-
+## run
+```js
   yarn start
-  
-  ```
+```
